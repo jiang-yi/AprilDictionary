@@ -276,4 +276,19 @@ bag
 back
 earth
 bed
+parrot
+dinosaur
+lamb
+duck
+crocodile
+wolf
+phone
+cake
+beautiful
+growing
+rubish
+icecream
+animal
+childcare
+jail
 
